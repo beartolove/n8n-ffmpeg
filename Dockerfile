@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.79.1-full
+FROM n8nio/n8n:1.74.1-full
 
 USER root
 RUN apt-get update && \
