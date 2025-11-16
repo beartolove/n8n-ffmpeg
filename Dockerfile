@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.79.1
+FROM n8nio/n8n:1.79.1-debian
 
 # 安裝 ffmpeg（Debian / Ubuntu base）
 USER root
